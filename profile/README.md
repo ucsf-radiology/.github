@@ -1,6 +1,6 @@
 ## Introduction
 
-This organization, owned and operated by the UCSF Department of Radiology, serves as the gateway to our UCSF Radiology GitHub ecosystem. It acts as both an organizational directory and a home for non-research projects.
+This organization, owned and operated by the UCSF Department of Radiology, serves as the gateway to our UCSF Radiology GitHub ecosystem. It acts as both an organizational directory and a home for **non-research** projects.
 
 ## GitHub Platforms
 
