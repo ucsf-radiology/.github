@@ -19,7 +19,7 @@ Projects containing **P1** and **P2** data can be hosted on either **github.com*
 - Department of Radiology: [On-Prem](https://git.ucsf.edu/radiology) | [Public](https://github.com/ucsf-radiology)
 - Radiology Research: [On-Prem](https://git.ucsf.edu/radiology-research) | [Public](https://github.com/radiology-research)
 - Scientific Computing Services (SCS): [On-Prem](https://git.ucsf.edu/radiology-scs) | [Public](https://github.com/radiology-scs)
-- Center for Intelligent Imaging (ci<sup>2</sup>) - Computational Core: [On-Prem](https://git.ucsf.edu/intelligent-imaging-computational-core)
+- Center for Intelligent Imaging (ci<sup>2</sup>) Computational Core: [On-Prem](https://git.ucsf.edu/intelligent-imaging-computational-core)
 
 ## Management
 
